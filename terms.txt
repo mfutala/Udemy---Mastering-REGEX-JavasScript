@@ -1,0 +1,26 @@
+
+Metacharacters
+
+^ - 
+$ -
+. - Wild Card: any single character 
+* - 
++ -
+? -
+= -
+! -
+: -
+| -
+\ - Escape Character 
+/ -
+() -
+[] -
+{} -
+
+Control Characters
+\t  tab
+\v  vertical tab
+\n  new line
+\r  carriage return
+
+
