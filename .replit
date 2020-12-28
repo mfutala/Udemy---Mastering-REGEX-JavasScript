@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node gettingStarted.js"
+run = "node 'Specifying Characters in REGEX'/exercise1.js"
